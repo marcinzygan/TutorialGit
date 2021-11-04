@@ -4,4 +4,4 @@ Lets make it work
 ## Readme
 Readme update 
 
-**`![Monkey](../master/TutorialGit/monkey.png)`**
+![Monkey](../master/TutorialGit/monkey.png)
